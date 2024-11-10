@@ -13,9 +13,7 @@ The Web Gang:
 Mr. C++ (he's grumpy yet very reliable, i grew up with him)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
-Roadmap Stuff:
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66cfae8b86ab8b2c176f360e?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **Talos14/Talos14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
